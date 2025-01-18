@@ -22,11 +22,8 @@
   <a href="https://www.facebook.com/nguyen.huutri.0037/" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="40" width="40" />
   </a>
-  <a href="mailto:your-email@example.com" target="_blank">
+  <a href="mailto:yuuchi357@gmail.com" target="_blank">
     <img align="center" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="Email" height="40" width="40" />
-  </a>
-  <a href="https://www.linkedin.com/in/nguyen-huu-tri/" target="_blank">
-    <img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="LinkedIn" height="40" width="40" />
   </a>
 </p>
 
@@ -61,5 +58,5 @@
   <a href="https://sass-lang.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="Sass" width="40" height="40" />
   </a>
-  
+  <!-- Add more technologies as needed -->
 </p>
