@@ -1,6 +1,13 @@
 <h1 align="center">Hi 👋, I'm Nguyen Huu Tri</h1>
 <h3 align="center">Passionate About Designing and Developing the Future of Web & Mobile</h3>
 
+<h3 align="left">Bio:</h3>
+<ul>
+  <li>💻 <strong>Software Developer</strong> | 📱 <strong>Mobile App Developer</strong> | 🎨 <strong>UI/UX Designer</strong></li>
+  <li>🔧 Skilled in <strong>HTML/CSS/JavaScript</strong>, <strong>React Native/Flutter</strong>, and <strong>SQL/NoSQL Databases</strong></li>
+  <li>🌱 Passionate about <strong>building applications for the community</strong></li>
+</ul>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://www.facebook.com/nguyen.huutri.0037/" target="blank">
