@@ -2,7 +2,7 @@
 <h2 align="center">🚀 Designing and Developing the Future of Web & Mobile</h2>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&duration=4000&pause=1000&center=true&width=600&lines=💻+Software+Developer+|+📱+Mobile+App+Developer+|+🎨+UI/UX+Designer;🔧+Skilled+in+HTML/CSS/JavaScript,+React+Native/Flutter;🌱+Passionate+about+building+community-focused+applications" alt="Typing SVG">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&duration=4000&pause=1000&center=true&width=600&lines=Full-Stack+Web+%26+Mobile+Developer;Skilled+in+ReactNative,+Node.js,+SQL,...;Student+%40+UIT,+VNU-HCM" alt="Typing SVG">
 </p>
 
 ---
